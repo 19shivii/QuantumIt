@@ -1,0 +1,13 @@
+section{padding: 60px 0;
+    overflow: hidden;}
+#home{
+    width: 100%;
+    min-height: 50vh;
+    background-color:#dbf3ff;
+    background-size: cover;
+    padding: 120px 0 60px;
+}
+.img{
+    height: 22rem;
+}
+

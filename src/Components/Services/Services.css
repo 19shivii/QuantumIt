@@ -1,0 +1,75 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+ .services {
+    padding: 80px 0;
+    overflow: hidden;
+    background: #dbf3ff;
+}
+
+.section-header {
+    text-align: center;
+    padding-bottom: 40px;
+   
+}
+.section-header h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    border-bottom: 4px #52b3e4  dotted;
+    display: inline-block;
+}
+
+
+.row{
+    margin-top: 20px;
+}
+
+.services .icon-box {
+    position:relative;
+    padding: 72px 30px 27px 30px;
+    background: #fefefe;
+    box-shadow: 0px 5px 90px 0px rgb(110 123 131 / 10%);
+    border-bottom: 5px solid #fff;
+    text-align: center;
+    margin: 0 34px;
+}
+.services .icon-box .icon {
+    margin: 0;
+    width: 72px;
+    height: 72px;
+    background: white;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 28px;
+    position: absolute;
+    top: -36px;
+    left: calc(50% - 36px);
+    border: 6px solid white;
+}
+
+
+.services .icon-box .icon i {
+    font-size: 28px;
+}
+.services .icon-box p {
+    line-height: 24px;
+    font-size: 14px;
+    margin-bottom: 0;
+}
+.services .icon-box h4 a{
+    text-decoration: none;
+    color: black;
+}
+
+.services .bi{
+    color: #52b3e4;
+}
+.Button{
+    margin-top: 25px;
+    text-align: center;
+}

@@ -1,0 +1,25 @@
+
+img{
+    height: 20rem;
+}
+.about .icon i{
+    right: 570px;
+    font-size: 44px;
+    position: absolute;
+    border: 2px solid white;
+    padding: 4px 10px;
+    border-radius: 50%;
+    color: #52b3e4;
+    background: white;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+.low i{
+    display: flex;
+    flex-direction: column;
+    font-size: 28px;
+    color: #52b3e4;
+    text-align: center;
+}

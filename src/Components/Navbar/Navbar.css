@@ -1,0 +1,12 @@
+.navbar{
+    top:3rem;
+    z-index: 999;
+}
+.navbar-brand {
+    color: #0dcaf0;
+    margin-left: 9rem;
+}
+
+.navbar-light .navbar-nav .nav-link.active,.navbar-light .navbar-nav .nav-link:hover,.navbar-light .navbar-nav .show>.nav-link {
+    color: #0dcaf0;
+}
